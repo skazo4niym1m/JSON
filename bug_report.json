@@ -6,14 +6,14 @@
   "Severity" : "Blocker",
   "Priority" : "ASAP",
   "Status" : "Open",
-  "Author" : "Vysotskiy S",
-  "Assigned To" : "Ivanov I",
+  "Author" : "Andryushin A",
+  "Assigned To" : "Daler K",
   "Description" : {
     "Precondition" : {
       "1" : "Зарегистрироваться на сайте shop.com",
       "2" : "Авторизоваться на сайте"
     }
-    "Environment" : "MacOS BigSur v:11.2.3. Google Chrome v: 94.0.4606.71 (x86_64)",
+    "Environment" : "MacOS BigSur v:11.2.3. Google Chrome v: 104.0.4606.71 (x86_64)",
     "Steps to reproduce" : {
       "1" : "Добавить товар в корзину",
       "2" : "Зайти в корзину",
